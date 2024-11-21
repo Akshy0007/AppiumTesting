@@ -25,6 +25,9 @@ public class javainteraction
        StringSelection stringSelection = new StringSelection(text);
        Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
        clipboard.setContents(stringSelection, stringSelection);
+       // gdhwsfjshf
+       //djsagdhsgf
+       //hgsdh
         
        r.keyPress(KeyEvent.VK_CONTROL);
        r.keyPress(KeyEvent.VK_V);
